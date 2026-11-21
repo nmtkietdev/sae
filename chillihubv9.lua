@@ -152,4 +152,4 @@ task.wait(0.4)
 BlurEffect:Destroy()
 ScreenGui:Destroy()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tienkhanh1/Aquavine/main/DivineHub"))()
